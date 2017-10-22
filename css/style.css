@@ -1,0 +1,78 @@
+.profile-pic {
+	max-width: 100%;
+}
+
+.stats-messi {
+	max-width: 100%;
+}
+
+.blue-name {
+	color: darkblue; 
+	text-decoration: underline;
+	text-align: center;
+}
+
+.red-name {
+	color: red; 
+	text-decoration: underline;
+	text-align: center;
+}
+
+.display-inline {
+	display:inline-block;
+	margin-left: -4px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+body {
+	background-color: black;
+}
+
+.goals-season {
+	text-align: center;
+}
+
+.messi-goals {
+	background-color: darkred;
+}
+
+.suarez-goals {
+	background-color: darkgreen;
+}
+
+.rakitic-goals {
+	background-color: darkblue;
+}
+
+.pique-goals {
+	background-color: orange;
+}
+
+.space {
+	padding: 20px;
+}
+
+.my-navbar {
+	background: linear-gradient(to right, darkred, darkblue);
+}
+
+.my-link {
+	color: lightblue;
+	font-family: 'Merriweather', serif;
+}
+
+.container-color {
+	background-color: beige;
+}
+
+.moving-messi {
+	padding: 10px;
+	
+}
+
+.change-font {
+	font-family: 'Amatic SC', cursive;
+}
